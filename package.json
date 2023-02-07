@@ -1,0 +1,23 @@
+{
+  "name": "test-javascript-env",
+  "version": "0.0.0",
+  "description": "Esto es un entorno de prueba de E para node",
+  "main": "App.js",
+  "scripts": {
+    "start": "node App.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gerardo040801/Test-javascript-env.git"
+  },
+  "keywords": [
+    "Node",
+    "ES6"
+  ],
+  "author": "@GerardoM3ndo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gerardo040801/Test-javascript-env/issues"
+  },
+  "homepage": "https://github.com/Gerardo040801/Test-javascript-env#readme"
+}
